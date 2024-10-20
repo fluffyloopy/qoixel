@@ -1,0 +1,7 @@
+*.pyc
+*.so
+*.egg-info
+__pycache__
+*.qoi
+*.sixel
+venv/
